@@ -11,5 +11,4 @@
 <a href=https://dev.to/hmajid2301 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="hmajid2301" height="20" width="20" /></a>
 <a href=https://stackoverflow.com/hmajid2301 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="hmajid2301" height="20" width="20" /></a>
 </p>
-
 - Generated Using [MTG](https://rahuldkjain.github.io/gh-profile-readme-generator/)
