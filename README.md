@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb Majid</h1>
+
 - 🔭 I’m currently working on [my personal site](https://gitlab.com/hmajid2301/personal-site)
 
 - 💬 Ask me about **Python, Typescript, React**
