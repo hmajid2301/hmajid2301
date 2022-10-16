@@ -7,6 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/hmajid2301](https://gitlab.com/hmajid2301)
 
-- 📝 I regularly write articles on [https://haseebmajid.dev/blog/](https://haseebmajid.dev/blog/)
+- 📝 I regularly write articles on [https://haseebmajid.dev/posts/](https://haseebmajid.dev/posts/)
 
 - 📫 How to reach me **hello@haseebmajid.dev**
