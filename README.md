@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb Majid</h1>
-<h3 align="center">A fullstack engineer</h3>
-
-- 🔭 I’m currently working on [banter bus](https://gitlab.com/banter-bus)
-
-- 🌱 I’m currently learning **Golang, Svelte**
+<h3 align="center">A Backend Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/hmajid2301](https://gitlab.com/hmajid2301)
 
