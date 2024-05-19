@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Env Variables With Viper Config Library in Go](https://haseebmajid.dev/posts/2024-05-19-how-to-use-env-variables-with-viper-config-library-in-go/)
 - [TIL: How to Pull Submodules in a Nix Derivation](https://haseebmajid.dev/posts/2024-05-12-til-how-to-pull-submodules-in-a-nix-derivation/)
 - [Part 5B: Installing Our Nix Configuration &lpar;NixOS Anywhere&rpar; as Part of Your Workflow](https://haseebmajid.dev/posts/2024-05-02-part-5b-installing-our-nix-configuration-as-part-of-your-workflow/)
 - [Part 5: Nix as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-04-28-part-5-nix-as-part-of-your-development-workflow/)
 - [Part 4b Foot Terminal as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-04-25-part-4b-foot-terminal-as-part-of-your-development-workflow/)
-- [TIL: How to Fix Neorg Metadata Treesitter Issues With Nixvim](https://haseebmajid.dev/posts/2024-04-21-til-how-to-fix-neorg-metadata-treesitter-issues-with-nixvim/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
