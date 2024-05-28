@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Fixed Hibernate on My NixOS Machine](https://haseebmajid.dev/posts/2024-05-27-how-i-fixed-hibernation-on-my-nixos-machine/)
+- [How to Add reveal-hugo to a Hugo Site](https://haseebmajid.dev/posts/2024-05-26-how-to-add-hugo-revealjs-to-a-hugo-site/)
 - [How to Deploy Kubernetes Dashboard Using Pulumi to a K3s Cluster](https://haseebmajid.dev/posts/2024-05-24-how-to-deploy-kubernetes-dashboard-using-pulumi-to-a-k3s-cluster/)
 - [How to Use Env Variables With Viper Config Library in Go](https://haseebmajid.dev/posts/2024-05-19-how-to-use-env-variables-with-viper-config-library-in-go/)
 - [TIL: How to Pull Submodules in a Nix Derivation](https://haseebmajid.dev/posts/2024-05-12-til-how-to-pull-submodules-in-a-nix-derivation/)
-- [Part 5B: Installing Our Nix Configuration &lpar;NixOS Anywhere&rpar; as Part of Your Workflow](https://haseebmajid.dev/posts/2024-05-02-part-5b-installing-our-nix-configuration-as-part-of-your-workflow/)
-- [Part 5: Nix as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-04-28-part-5-nix-as-part-of-your-development-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
