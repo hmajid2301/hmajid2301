@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating My Homelab to Flux](https://haseebmajid.dev/posts/2024-06-17-migrating-my-homelab-to-flux/)
 - [TIL: How to Fix Did No Resolve Alias Errors in Podman](https://haseebmajid.dev/posts/2024-06-15-til-how-to-fix-did-no-resolve-alias-errors-in-podman/)
 - [TIL: How to Fix DNS Resolution Issues in K3s Related to Flannel Networking](https://haseebmajid.dev/posts/2024-06-02-til-how-to-fix-dns-resolution-issues-in-k3s-related-to-flannel-networking/)
 - [How I Fixed Hibernate on My NixOS Machine](https://haseebmajid.dev/posts/2024-05-27-how-i-fixed-hibernation-on-my-nixos-machine/)
 - [How to Add reveal-hugo to a Hugo Site](https://haseebmajid.dev/posts/2024-05-26-how-to-add-hugo-revealjs-to-a-hugo-site/)
-- [How to Deploy Kubernetes Dashboard Using Pulumi to a K3s Cluster](https://haseebmajid.dev/posts/2024-05-24-how-to-deploy-kubernetes-dashboard-using-pulumi-to-a-k3s-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
