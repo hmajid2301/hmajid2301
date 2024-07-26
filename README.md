@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Configured Zellij Status Bar](https://haseebmajid.dev/posts/2024-07-26-how-i-configured-zellij-status-bar/)
 - [Part 6: Fish Shell as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-07-01-part-6-fish-shell-as-part-of-your-development-workflow/)
 - [Rewriting a Python script as a Bash one-liner](https://haseebmajid.dev/posts/2024-06-30-rewriting-a-python-script-as-a-bash-one-liner/)
 - [Migrating My Homelab to Flux](https://haseebmajid.dev/posts/2024-06-17-migrating-my-homelab-to-flux/)
 - [TIL: How to Fix Did No Resolve Alias Errors in Podman](https://haseebmajid.dev/posts/2024-06-15-til-how-to-fix-did-no-resolve-alias-errors-in-podman/)
-- [TIL: How to Fix DNS Resolution Issues in K3s Related to Flannel Networking](https://haseebmajid.dev/posts/2024-06-02-til-how-to-fix-dns-resolution-issues-in-k3s-related-to-flannel-networking/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
