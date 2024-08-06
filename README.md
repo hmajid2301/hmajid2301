@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Configure Kitty on Nix to Show Emojis](https://haseebmajid.dev/posts/2024-08-06-how-to-configure-kitty-on-nix-to-show-emojis/)
 - [How I Set up BTRFS and LUKS on NixOS Using Disko](https://haseebmajid.dev/posts/2024-07-30-how-i-setup-btrfs-and-luks-on-nixos-using-disko/)
 - [How I Configured Zellij Status Bar](https://haseebmajid.dev/posts/2024-07-26-how-i-configured-zellij-status-bar/)
 - [Part 6: Fish Shell as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-07-01-part-6-fish-shell-as-part-of-your-development-workflow/)
 - [Rewriting a Python script as a Bash one-liner](https://haseebmajid.dev/posts/2024-06-30-rewriting-a-python-script-as-a-bash-one-liner/)
-- [Migrating My Homelab to Flux](https://haseebmajid.dev/posts/2024-06-17-migrating-my-homelab-to-flux/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
