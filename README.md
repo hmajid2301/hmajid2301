@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set up Authentik Forward Auth With Traefik on NixOS](https://haseebmajid.dev/posts/2024-09-06-how-to-setup-authentik-forward-auth-with-traefik-on-nixos/)
 - [Setup TLS Certificate With Traefik &amp; Tailscale on NixOS](https://haseebmajid.dev/posts/2024-08-19-setup-tls-certificate-with-traefik-tailscale-on-nixos/)
 - [How to Configure Kitty on Nix to Show Emojis](https://haseebmajid.dev/posts/2024-08-06-how-to-configure-kitty-on-nix-to-show-emojis/)
 - [How I Set up BTRFS and LUKS on NixOS Using Disko](https://haseebmajid.dev/posts/2024-07-30-how-i-setup-btrfs-and-luks-on-nixos-using-disko/)
 - [How I Configured Zellij Status Bar](https://haseebmajid.dev/posts/2024-07-26-how-i-configured-zellij-status-bar/)
-- [Part 6: Fish Shell as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-07-01-part-6-fish-shell-as-part-of-your-development-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
