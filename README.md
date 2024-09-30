@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set up Cloudflare Tunnels With Traefik &lpar;In NixOS&rpar;](https://haseebmajid.dev/posts/2024-09-30-how-to-setup-cloudflare-tunnels-to-point-to-service-behind-traefik/)
 - [TIL: How to Cancel Stale Pipelines in GitLab CI](https://haseebmajid.dev/posts/2024-09-15-til-how-to-cancel-stale-pipelines-in-gitlab-ci/)
 - [TIL: How to Get Shell Completions in Nix Shell With Direnv](https://haseebmajid.dev/posts/2024-09-12-til-how-to-get-shell-completions-in-nix-shell-with-direnv/)
 - [How to Set up Authentik Forward Auth With Traefik on NixOS](https://haseebmajid.dev/posts/2024-09-06-how-to-setup-authentik-forward-auth-with-traefik-on-nixos/)
 - [Setup TLS Certificate With Traefik &amp; Tailscale on NixOS](https://haseebmajid.dev/posts/2024-08-19-setup-tls-certificate-with-traefik-tailscale-on-nixos/)
-- [How to Configure Kitty on Nix to Show Emojis](https://haseebmajid.dev/posts/2024-08-06-how-to-configure-kitty-on-nix-to-show-emojis/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
