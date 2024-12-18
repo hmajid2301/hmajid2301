@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 7: Zellij as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-12-18-part-7-zellij-as-part-of-your-development-workflow/)
 - [Speaking Tips I Have Learnt From Conferences](https://haseebmajid.dev/posts/2024-12-15-speaking-tips-i-ve-learnt/)
 - [How to Wrap NixGL Around Package in Home Manager](https://haseebmajid.dev/posts/2024-10-15-how-to-wrap-nixgl-around-package-in-home-manager/)
 - [How to Set up Cloudflare Tunnels With Traefik &lpar;In NixOS&rpar;](https://haseebmajid.dev/posts/2024-09-30-how-to-setup-cloudflare-tunnels-to-point-to-service-behind-traefik/)
 - [TIL: How to Cancel Stale Pipelines in GitLab CI](https://haseebmajid.dev/posts/2024-09-15-til-how-to-cancel-stale-pipelines-in-gitlab-ci/)
-- [TIL: How to Get Shell Completions in Nix Shell With Direnv](https://haseebmajid.dev/posts/2024-09-12-til-how-to-get-shell-completions-in-nix-shell-with-direnv/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
