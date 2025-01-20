@@ -13,11 +13,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Firefox Rendering Emoji Font &lpar;NixOS&rpar;](https://haseebmajid.dev/posts/2025-01-20-how-to-fix-firefox-rendering-emoji-font-black-bold-numbers-issue/)
 - [TIL: How to Fix PipeWire/WirePlumber Issues on NixOS](https://haseebmajid.dev/posts/2025-01-15-til-how-to-fix-pipewire-wireplumber-issues-on-nixos/)
 - [My Year in Review 2024](https://haseebmajid.dev/posts/2025-01-01-my-year-in-review-2024/)
 - [Part 7: Zellij as Part of Your Development Workflow](https://haseebmajid.dev/posts/2024-12-18-part-7-zellij-as-part-of-your-development-workflow/)
 - [Speaking Tips I Have Learnt From Conferences](https://haseebmajid.dev/posts/2024-12-15-speaking-tips-i-ve-learnt/)
-- [How to Wrap NixGL Around Package in Home Manager](https://haseebmajid.dev/posts/2024-10-15-how-to-wrap-nixgl-around-package-in-home-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
