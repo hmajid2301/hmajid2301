@@ -17,11 +17,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Feedback Week 4](https://haseebmajid.dev/posts/2025-03-17-go-feedback-week-4/)
 - [Go Feedback Week 3](https://haseebmajid.dev/posts/2025-03-10-go-feedback-week-3/)
 - [Go Feedback My New Side Project](https://haseebmajid.dev/posts/2025-03-03-go-feedback-my-new-side-project/)
 - [How to Fix Firefox Rendering Emoji Font &lpar;NixOS&rpar;](https://haseebmajid.dev/posts/2025-01-20-how-to-fix-firefox-rendering-emoji-font-black-bold-numbers-issue/)
 - [TIL: How to Fix PipeWire/WirePlumber Issues on NixOS](https://haseebmajid.dev/posts/2025-01-15-til-how-to-fix-pipewire-wireplumber-issues-on-nixos/)
-- [My Year in Review 2024](https://haseebmajid.dev/posts/2025-01-01-my-year-in-review-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
