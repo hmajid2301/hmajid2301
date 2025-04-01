@@ -17,11 +17,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Voxicle Week 6](https://haseebmajid.dev/posts/2025-03-31-voxicle-week-6/)
 - [Voxicle Week 5](https://haseebmajid.dev/posts/2025-03-24-voxicle-week-5/)
 - [TIL: How to Fix Issue With Dropbar and Auto Session](https://haseebmajid.dev/posts/2025-03-22-til-fix-issue-with-dropbar-and-auto-session/)
 - [Go Feedback Week 4](https://haseebmajid.dev/posts/2025-03-17-go-feedback-week-4/)
 - [Go Feedback Week 3](https://haseebmajid.dev/posts/2025-03-10-go-feedback-week-3/)
-- [Go Feedback My New Side Project](https://haseebmajid.dev/posts/2025-03-03-go-feedback-my-new-side-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
