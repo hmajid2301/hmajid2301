@@ -17,7 +17,7 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Voxicle Week 7 Week 8](https://haseebmajid.dev/posts/2025-04-14-voxicle-week-7-week-8/)
+- [Voxicle Week 7 &amp; Week 8](https://haseebmajid.dev/posts/2025-04-14-voxicle-week-7-week-8/)
 - [TIL - How to Get Dropbar and Auto Session to Work](https://haseebmajid.dev/posts/2025-04-12-til-how-to-get-dropbar-and-auto-session-to-work/)
 - [Voxicle Week 6](https://haseebmajid.dev/posts/2025-03-31-voxicle-week-6/)
 - [Voxicle Week 5](https://haseebmajid.dev/posts/2025-03-24-voxicle-week-5/)
