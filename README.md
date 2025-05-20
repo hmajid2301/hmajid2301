@@ -17,11 +17,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Voxicle Build Log 13](https://haseebmajid.dev/posts/2025-05-19-voxicle-build-log-week-13/)
+- [Part 8: Neovim as Part of Your Development Workflow](https://haseebmajid.dev/posts/2025-05-15-part-8-neovim-as-part-of-your-development-workflow/)
 - [Voxicle Build Log Week 12](https://haseebmajid.dev/posts/2025-05-12-voxicle-build-log-week-12/)
 - [How I Setup Tailwindcss LSP With Neovim &amp; Nix &lpar;With DaisyUI&rpar;](https://haseebmajid.dev/posts/2025-05-06-how-i-setup-tailwindcss-lsp-with-neovim-nix-with-daisyui-/)
 - [Voxicle Week 11](https://haseebmajid.dev/posts/2025-05-05-voxicle-week-11/)
-- [Why I Built a Web App With HTMX, Go &amp; Postgres](https://haseebmajid.dev/posts/2025-05-03-why-i-build-a-web-app-with-htmx-go-postgres/)
-- [TIL - How to Set Dynamic URL With HTMX and AlpineJS](https://haseebmajid.dev/posts/2025-04-29-til-set-dynamic-url-with-htmx-and-alpinejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
