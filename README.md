@@ -17,11 +17,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the GitLab Proxy in CI](https://haseebmajid.dev/posts/2025-06-18-how-to-use-the-gitlab-proxy-in-ci/)
 - [Voxicle Build Log 14](https://haseebmajid.dev/posts/2025-06-02-voxicle-build-log-14/)
 - [Voxicle Build Log 13](https://haseebmajid.dev/posts/2025-05-19-voxicle-build-log-week-13/)
 - [Part 8: Neovim as Part of Your Development Workflow](https://haseebmajid.dev/posts/2025-05-15-part-8-neovim-as-part-of-your-development-workflow/)
 - [Voxicle Build Log Week 12](https://haseebmajid.dev/posts/2025-05-12-voxicle-build-log-week-12/)
-- [How I Setup Tailwindcss LSP With Neovim &amp; Nix &lpar;With DaisyUI&rpar;](https://haseebmajid.dev/posts/2025-05-06-how-i-setup-tailwindcss-lsp-with-neovim-nix-with-daisyui-/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
