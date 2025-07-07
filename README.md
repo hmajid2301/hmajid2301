@@ -17,11 +17,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Voxicle Build Log 16](https://haseebmajid.dev/posts/2025-07-07-voxicle-build-log-16/)
 - [How to Fix Shell Completions When Using Nix Direnv and Fish Shell](https://haseebmajid.dev/posts/2025-07-02-how-to-fix-shell-completions-when-using-nix-direnv/)
 - [Voxicle Build Log 15](https://haseebmajid.dev/posts/2025-06-23-voxicle-build-log-15/)
 - [How to Use the GitLab Proxy in CI](https://haseebmajid.dev/posts/2025-06-18-how-to-use-the-gitlab-proxy-in-ci/)
 - [Voxicle Build Log 14](https://haseebmajid.dev/posts/2025-06-02-voxicle-build-log-14/)
-- [Voxicle Build Log 13](https://haseebmajid.dev/posts/2025-05-19-voxicle-build-log-week-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
