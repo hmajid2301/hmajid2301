@@ -17,11 +17,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yak Shaving: Neotest Edition](https://haseebmajid.dev/posts/2025-11-02-yak-shaving-neotest-edition/)
 - [TIL - How to Change Emojis in nh](https://haseebmajid.dev/posts/2025-08-10-til-how-to-change-emojis-in-nh/)
 - [Voxicle Build Log 16](https://haseebmajid.dev/posts/2025-07-07-voxicle-build-log-16/)
 - [How to Use Tailscale GitLab CI to Deploy to Our Nix Home lab](https://haseebmajid.dev/posts/2025-07-10-how-to-use-tailscale-gitlab-ci-to-deploy-to-our-nix-homelab/)
 - [How to Fix Shell Completions When Using Nix Direnv and Fish Shell](https://haseebmajid.dev/posts/2025-07-02-how-to-fix-shell-completions-when-using-nix-direnv/)
-- [Voxicle Build Log 15](https://haseebmajid.dev/posts/2025-06-23-voxicle-build-log-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
