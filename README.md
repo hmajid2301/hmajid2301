@@ -17,11 +17,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup a New PC With Lanzaboote, TPM Decryption, sops-nix, Impermanence and nixos-anywhere](https://haseebmajid.dev/posts/2025-12-31-how-to-setup-a-new-pc-with-lanzaboote-tpm-decryption-sops-nix-impermanence-nixos-anywhere/)
 - [TIL - How to Fix Tailscale Using Mullvad as Exit Nodes on NixOS](https://haseebmajid.dev/posts/2025-12-29-til-how-to-fix-tailscale-using-mullvad-as-exit-nodes-on-nixos/)
 - [TIL - How to Fix App Lounge Updates Getting Stuck &lpar;MurenaOS/eOS&rpar;](https://haseebmajid.dev/posts/2025-12-28-til-how-to-fix-app-lounge-updates-getting-stuck-murenaos-eos-/)
 - [How to Fix PAM Issues With Home Manager on Non-NixOS Setups](https://haseebmajid.dev/posts/2025-12-12-how-to-fix-pam-issues-with-home-manager-on-non-nixos-setups/)
 - [TIL - How to Enable Video Thumbnails for SMB Share on Nixos and Nautilus](https://haseebmajid.dev/posts/2025-11-06-til-how-to-enable-video-thumbnails-for-smb-share-on-nixos/)
-- [Yak Shaving: Neotest Edition](https://haseebmajid.dev/posts/2025-11-02-yak-shaving-neotest-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
