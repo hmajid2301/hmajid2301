@@ -10,6 +10,7 @@ If you want to see what I write about visit my [blog](https://haseebmajid.dev/po
 Currently Building:
 
 - Banter Bus: https://banterbus.games
+- Go Routinely: https://tangled.org/majiy00.tngl.sh/go-routinely
 
 At the moment I am really into developer workflows and looking at ways at improving my own. I have recently really
 gotten into Nix (and NixOS), Neovim and Zellij (and other related tools). I am really into the Linux eco-system
