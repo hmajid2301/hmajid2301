@@ -18,11 +18,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL - How to Git Push to Multiple Repositories](https://haseebmajid.dev/posts/2026-03-09-til-how-to-git-push-to-multiple-repositories/)
 - [My Year in Review 2025](https://haseebmajid.dev/posts/2026-01-01-my-year-in-review-2025/)
 - [How to Setup a New PC With Lanzaboote, TPM Decryption, sops-nix, Impermanence and nixos-anywhere](https://haseebmajid.dev/posts/2025-12-31-how-to-setup-a-new-pc-with-lanzaboote-tpm-decryption-sops-nix-impermanence-nixos-anywhere/)
 - [TIL - How to Fix Tailscale Using Mullvad as Exit Nodes on NixOS](https://haseebmajid.dev/posts/2025-12-29-til-how-to-fix-tailscale-using-mullvad-as-exit-nodes-on-nixos/)
 - [TIL - How to Fix App Lounge Updates Getting Stuck &lpar;MurenaOS/eOS&rpar;](https://haseebmajid.dev/posts/2025-12-28-til-how-to-fix-app-lounge-updates-getting-stuck-murenaos-eos-/)
-- [How to Fix PAM Issues With Home Manager on Non-NixOS Setups](https://haseebmajid.dev/posts/2025-12-12-how-to-fix-pam-issues-with-home-manager-on-non-nixos-setups/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
