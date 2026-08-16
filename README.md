@@ -18,11 +18,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Migrated From Authentik to Pocket ID With TinyAuth on NixOS](https://haseebmajid.dev/posts/2026-08-16-how-i-migrated-from-authentik-to-pocket-id-with-tinyauth-on-nixos/)
 - [How I Implemented Authorization in My Go App With RLS &lpar;Postgres&rpar;](https://haseebmajid.dev/posts/2026-08-15-how-i-implemented-authorization-in-my-go-app-with-rls-postgres/)
 - [TIL - How to Git Push to Multiple Repositories](https://haseebmajid.dev/posts/2026-03-09-til-how-to-git-push-to-multiple-repositories/)
 - [My Year in Review 2025](https://haseebmajid.dev/posts/2026-01-01-my-year-in-review-2025/)
 - [How to Setup a New PC With Lanzaboote, TPM Decryption, sops-nix, Impermanence and nixos-anywhere](https://haseebmajid.dev/posts/2025-12-31-how-to-setup-a-new-pc-with-lanzaboote-tpm-decryption-sops-nix-impermanence-nixos-anywhere/)
-- [TIL - How to Fix Tailscale Using Mullvad as Exit Nodes on NixOS](https://haseebmajid.dev/posts/2025-12-29-til-how-to-fix-tailscale-using-mullvad-as-exit-nodes-on-nixos/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
