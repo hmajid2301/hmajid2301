@@ -18,11 +18,11 @@ and currently daily drive a NixOS machine to do everything from development to g
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Generate Open Graph Images With Hugo](https://haseebmajid.dev/posts/2026-11-17-how-i-generate-open-graph-images-with-hugo/)
 - [TIL - How to Escape Single Quotes in Nix Indented Strings](https://haseebmajid.dev/posts/2026-11-13-til-how-to-escape-single-quotes-in-nix-indented-strings/)
 - [Why I Migrated From Authentik to PocketID](https://haseebmajid.dev/posts/2026-08-25-why-i-migrated-from-authentik-to-pocketid/)
 - [How I Implemented Authorization in My Go App With RLS &lpar;Postgres&rpar;](https://haseebmajid.dev/posts/2026-08-15-how-i-implemented-authorization-in-my-go-app-with-rls-postgres/)
 - [TIL - How to Git Push to Multiple Repositories](https://haseebmajid.dev/posts/2026-03-09-til-how-to-git-push-to-multiple-repositories/)
-- [My Year in Review 2025](https://haseebmajid.dev/posts/2026-01-01-my-year-in-review-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
